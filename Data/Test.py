@@ -31,7 +31,7 @@ df.drop(df.columns[0], axis=1, inplace=True)
 
 # Load data into MySQL database
 username = 'root'
-password = '13022005'
+password = 'doanhbietemnghigi'
 host = 'localhost'
 database = 'test'
 
